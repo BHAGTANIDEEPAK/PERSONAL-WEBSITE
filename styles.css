@@ -1,0 +1,166 @@
+.topcontainer{
+  background-color: #E4F9F5;
+
+  margin-top: 0;
+  padding-top: 3.125%;
+  height: 700px;
+
+
+}
+
+body{
+  margin-top: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  color: #40514E;
+}
+
+h1{
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color:#66BFBF;
+
+
+}
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size:2.5rem;
+  color:#66BFBF;
+  font-weight: normal;
+
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color:#11999E;
+}
+a{
+  color:#11999E;
+}
+bottom-container{
+  background-color: #11999E;
+}
+
+.mountain-img{
+  position:absolute;
+  bottom:0;
+  right:28.125%;
+
+}
+.top-cloud{
+position: absolute;
+right: 18.75%;
+
+
+}
+.bottom-cloud{
+  position: absolute;
+  left:300px;
+
+
+}
+.profile-pic{
+height:150px;
+}
+.skill-img{
+  height:150px;
+  float:left;
+  margin-right: 1.875%;
+
+}
+.hobbies-img{
+  height:150px;
+  float:right;
+  margin-left: 1.875%;
+
+
+}
+.skill-row{
+  width:50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+
+}
+.intro{
+
+  line-height: 2;
+  width:40%;
+  margin-left: auto;
+  margin-right: auto;
+}
+hr{
+  width:5%;
+  border-style: none;
+  border-top-style: dotted;
+  border-width:7px;
+  color: #EAF6F6;
+  margin-top:60px;
+}
+.my_skill_heading{
+  margin-top:90px;
+
+}
+.Get_in_touch{
+  margin-top: 90px;
+}
+.btn{
+  display:block;
+  background-color: #66BFBF;
+  text-decoration:none;
+  height:1.25%;
+  margin-left: 40.625%;
+  margin-right: 40.625%;
+  padding:0.625%;
+  border-radius: 10px;
+  color:white;
+
+}
+.btn:hover{
+  background: #11999E;
+}
+.btn-div{
+  margin-top:30px;
+}
+.bottom-container{
+  margin-top: 100px;
+  background-color: #66BFBF;
+  margin-bottom: 0;
+  height:100px;
+margin-left: 0;
+margin-right:0;
+padding: 40px;
+}
+.linkedin{
+  position:absolute;
+  left:550px;
+  color:#11999E;
+  text-decoration: none;
+}
+.facebook{
+  position:absolute;
+  right:550px;
+  color:#11999E;
+  text-decoration: none;
+}
+.Instagram{
+  color:#11999E;
+  text-decoration: none;
+}
+.linkedin:hover{
+  background:white;
+}
+.Instagram:hover{
+  background:white;
+}
+.facebook:hover{
+  background:white;
+}
+.copyright{
+  margin-top: 50px;
+  color:#EAF6F6;
+}
